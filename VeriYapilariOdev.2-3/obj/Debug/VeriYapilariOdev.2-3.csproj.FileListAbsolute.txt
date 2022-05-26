@@ -1,0 +1,10 @@
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\bin\Debug\VeriYapilariOdev.2-3.exe.config
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\bin\Debug\VeriYapilariOdev.2-3.exe
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\bin\Debug\VeriYapilariOdev.2-3.pdb
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\obj\Debug\VeriYapilariOdev.2-3.csproj.AssemblyReference.cache
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\obj\Debug\VeriYapilariOdev._2_3.Form1.resources
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\obj\Debug\VeriYapilariOdev._2_3.Properties.Resources.resources
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\obj\Debug\VeriYapilariOdev.2-3.csproj.GenerateResource.cache
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\obj\Debug\VeriYapilariOdev.2-3.csproj.CoreCompileInputs.cache
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\obj\Debug\VeriYapilariOdev.2-3.exe
+C:\Users\utala\source\repos\VeriYapilariOdev.2-3\VeriYapilariOdev.2-3\obj\Debug\VeriYapilariOdev.2-3.pdb
